@@ -1,7 +1,7 @@
 # KiwiPlan
   
   Each tests have been completed in its individual folders.
-# Task1 and Task2 have been provided in word documents  
+# Task 1 & 2 (Test Report and Test Case Design)
   
 # Task 3 & 4 (Python) 
   
